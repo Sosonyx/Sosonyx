@@ -3,7 +3,7 @@
 # 💫 About Me:
 ## 🎓 Étudiant à l’école 42 et passionné par l’IA, la data et le développement de solutions.
 
-✉️ Contactez-moi pour toute idée de projet, collaboration ou simple discussion tech.
+✉️ Contactez-moi pour toute idée de projet, collaboration ou simple discussion tech !
 
 ---
 

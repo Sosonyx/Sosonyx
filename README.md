@@ -24,7 +24,7 @@ Mon objectif : développer des projets concrets autour de l’intégration de so
 - **minitalk** – Communication entre processus via signaux  
 - **push_swap** – Algorithmes de tri et optimisation  
 - **philosophers** – Threads, synchronisation et gestion de ressources  
-- **minishell (en cours)** – Implémentation d’un shell UNIX minimaliste  
+- **minishell (en cours)** – Implémentation d’un shell UNIX
 
 ---
 

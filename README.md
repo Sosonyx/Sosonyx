@@ -8,23 +8,23 @@ Mon objectif : développer des projets concrets autour de l’intégration de so
 
 **🔧 Compétences actuelles**  
 
-- **Programmation :** Python, C, Shell  
-- **Data Science / IA :** Numpy, Pandas, Matplotlib, Scikit-learn, PyTorch  
-- **Automatisation & Web Scraping :** BeautifulSoup, Selenium  
-- **Systèmes & outils :** Linux, Git  
+>- **Programmation :** Python, C, Shell  
+>- **Data Science / IA :** Numpy, Pandas, Matplotlib, Scikit-learn, PyTorch  
+>- **Automatisation & Web Scraping :** BeautifulSoup, Selenium  
+>- **Systèmes & outils :** Linux, Git  
 
 ---
 
 **🚀 École 42**  
 
-- **Libft** – Librairie standard en C  
-- **get_next_line** – Lecture de fichiers en C  
-- **ft_printf** – Reproduction de printf  
-- **Born2beroot** – Administration système et sécurité Linux  
-- **minitalk** – Communication entre processus via signaux  
-- **push_swap** – Algorithmes de tri et optimisation  
-- **philosophers** – Threads, synchronisation et gestion de ressources  
-- **minishell (en cours)** – Implémentation d’un shell UNIX
+>- **Libft** – Librairie standard en C  
+>- **get_next_line** – Lecture de fichiers en C  
+>- **ft_printf** – Reproduction de printf  
+>- **Born2beroot** – Administration système et sécurité Linux  
+>- **minitalk** – Communication entre processus via signaux  
+>- **push_swap** – Algorithmes de tri et optimisation  
+>- **philosophers** – Threads, synchronisation et gestion de ressources  
+>- **minishell (en cours)** – Implémentation d’un shell UNIX
 
 ---
 

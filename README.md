@@ -9,9 +9,9 @@
 
 **🔧 Compétences actuelles**  
 
->- **Programmation :** Python, C, Shell  
+>- **Programmation :** C/C++, Python, Shell  
 >- **Data Science / IA :** Numpy, Pandas, Matplotlib, Scikit-learn, PyTorch  
->- **Automatisation & Web Scraping :** BeautifulSoup, Selenium  
+>- **Automatisation & Web Scraping :** BeautifulSoup, Selenium 
 >- **Systèmes & outils :** Linux, Git  
 
 ---
@@ -25,7 +25,8 @@
 >- **minitalk** – Communication entre processus via signaux  
 >- **push_swap** – Algorithmes de tri et optimisation  
 >- **philosophers** – Threads, synchronisation et gestion de ressources  
->- **minishell (en cours)** – Implémentation d’un shell UNIX
+>- **minishell** – Implémentation d’un shell UNIX
+>- **C++** - Apprentissage du langage via une série de module CPP-00/CPP-09 (en cours)
 
 ---
 

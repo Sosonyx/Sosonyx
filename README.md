@@ -26,7 +26,9 @@
 >- **push_swap** – Algorithmes de tri et optimisation  
 >- **philosophers** – Threads, synchronisation et gestion de ressources  
 >- **minishell** – Implémentation d’un shell UNIX
->- **C++** - Apprentissage du langage via une série de module CPP-00/CPP-09 (en cours)
+>- **C++** – Apprentissage du langage via une série de module CPP-00/CPP-09
+>- **Inception** – Administration Système & Conteneurisation (Wordpress, Mariadb, Nginx)
+>- **Transcendance** – (en cours)
 
 ---
 
